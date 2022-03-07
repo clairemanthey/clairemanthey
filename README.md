@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning more and more about javascript
 - 💞️ I’m looking to collaborate on making websites
 - 📫 How to reach me ... clairemanthey@gmail.com
-- See my work https://twitter.com/claire_makes,  https://codepen.io/your-work. 
+- 💻 See my work https://twitter.com/claire_makes,  https://codepen.io/your-work. 
 
 <!---
 clairemanthey/clairemanthey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
