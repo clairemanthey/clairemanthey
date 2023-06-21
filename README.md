@@ -3,12 +3,8 @@
 Web designer based in Chicago. Passionate about creating beautiful websites and using design to make the web accessible for everyone.
 
 ## Find More of My Work
-![website](icons/globe-solid.svg) ![codepen](icons/codepen.svg) ![twitter](icons/twitter.svg) ![blogger](icons/blogger-b.svg) ![linkedin](icons/linkedin-in.svg) ![instagram](icons/instagram.svg)
+<a href="https://clairemakeswebsites.github.io./"><img src="icons/globe-solid.svg" style="height: 50px; width: 50px"></a> <a href="https://codepen.io/aglaea"><img src="icons/codepen.svg" style="height: 50px; width: 50px"></a> <a href="https://twitter.com/claire_makes"><img src="icons/twitter.svg" style="height: 50px; width: 50px"></a> <a href="https://design-web-blog.netlify.app/blog"><img src="icons/blogger-b.svg" style="height: 50px; width: 50px"></a> <a href="https://www.linkedin.com/in/claire-manthey-4389a622/"><img src="icons/linkedin-in.svg" style="height: 50px; width: 50px"></a> <a href="https://www.instagram.com/clairemakeswebsites/"><img src="icons/instagram.svg" style="height: 50px; width: 50px"></a>
 
-
-
-
-Blog Codepen LinkedIn Twitter Insta
 
 ## Contact
 clairemanthey@gmail.com
