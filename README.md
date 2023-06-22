@@ -5,7 +5,7 @@ Web designer based in Chicago. Passionate about creating beautiful websites and 
 ## Find More of My Work
 [My Website](https://clairemakeswebsites.github.io./)
 
-Some of my [favorite projeces](https://codepen.io/aglaea)
+[Codepen](https://codepen.io/aglaea)
 
 [My Blog](https://design-web-blog.netlify.app/blog)
 
@@ -13,11 +13,15 @@ Some of my [favorite projeces](https://codepen.io/aglaea)
 
 [Instagram](https://www.instagram.com/clairemakeswebsites/)
 
+## Some of My Favorite Projects
+[Recipe Site](https://claire-fav-recipes.netlify.app/)
+A site with my favorite recipes
 
-## Contact
-[email](clairemanthey@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/claire-manthey-4389a622/")
+[Etch-A-Sketch](https://codepen.io/aglaea/full/PoymNMd)
+Make your own drawing on an Etch-A-Sketch
 
+[Countdown Clock](https://codepen.io/aglaea/full/eYyJVPZ)
+A count down to the return of my favorite podcast. Waiting for season 4 now.
 
 
 <!---
